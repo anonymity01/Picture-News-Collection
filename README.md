@@ -1,6 +1,6 @@
 # Picture News Collection
 
-Dataset for paper: Picture News Collection: A Dataset for Automatic Thumbnail Selection from Picture News ( Published at WISE2019 conference).
+Dataset for paper: Picture News Collection: A Dataset for Automatic Thumbnail Selection from Picture News (Published at International Conference on Web Information Systems Engineering 2019).
 
 The Picture News Collection 0.1 version can be publicly available online at https://pan.baidu.com/s/1coR2p19l_xCpJTD7n5opIA .
 
@@ -16,7 +16,7 @@ We reshaped each image in our Picture News Collection to a $224 \times 224$ pixe
 		* education
 			* annotation_Netease_education: json file, describing which subset each picture news belongs to ("subset"), images in each picture news ("context"), the thumbnail image of each picture news in the news website ("answer" or "label").
 
-				example:
+				Example:
     				"Netease_education/2235205": {"subset": "training", "context": ["Netease_education/2235205/1.jpg", "Netease_education/2235205/2.jpg", "Netease_education/2235205/3.jpg", "Netease_education/2235205/4.jpg", "Netease_education/2235205/5.jpg", "Netease_education/2235205/6.jpg"], "answer": "Netease_education/2235205/1.jpg", "label": "1"}
     		* Other files: zip files. After decompression, each dir in NetEase_education/ is a piece of picture news, containing several images. 
     			* NetEase_education/label.txt : labels of each picture. Each line represtents a piece of picture news. 
