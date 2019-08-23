@@ -1,5 +1,8 @@
-# Picture-News-Collection
-## Dataset for paper: Picture News Collection: A Dataset for Automatic Thumbnail Selection from Picture News.
+# Picture News Collection
+
+Dataset for paper: Picture News Collection: A Dataset for Automatic Thumbnail Selection from Picture News.
+
+The Picture News Collection 0.1 version can be publicly available online at https://pan.baidu.com/s/1coR2p19l_xCpJTD7n5opIA .
 
 The Picture News Collection contains more than 4 million images of 347,731 picture news from two famous news websites, Sina News and NetEase News.
 
