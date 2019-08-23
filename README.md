@@ -1,5 +1,5 @@
 # Picture-News-Collection
-Dataset for paper: Picture News Collection: A Dataset for Automatic Thumbnail Selection from Picture News.
+## Dataset for paper: Picture News Collection: A Dataset for Automatic Thumbnail Selection from Picture News.\<br>
 The Picture News Collection contains more than 4 million images of 347,731 picture news from two famous news websites, Sina News and NetEase News.\<br>
 
 Sina News part contains five hot news topics: fashion, history, Internet, sports and star.\<br>
