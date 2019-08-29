@@ -7,7 +7,7 @@ The Picture News Collection 0.1 version can be publicly available online at http
 The Picture News Collection contains more than 4 million images of 347,731 picture news from two famous news websites, Sina News and NetEase News.
 Sina News part contains five hot news topics: fashion, history, Internet, sports and star.
 NetEase News part contains five popular news topics: education, military, news, sports and star.
-We reshaped each image in our Picture News Collection to a $224 \times 224$ pixels color image.
+We reshaped each image in our Picture News Collection to a 224 * 224 pixels color image.
 
 ## Files in the Picture News Collection (2019/8/21)
 
